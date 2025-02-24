@@ -1,0 +1,12 @@
+{
+    "transactions": [
+      { "id": 1, "date": "2025-02-01", "status": "success", "amount": 500 },
+      { "id": 2, "date": "2025-02-03", "status": "failed", "amount": 200 },
+      { "id": 3, "date": "2025-02-05", "status": "success", "amount": 700 },
+      { "id": 4, "date": "2025-02-07", "status": "pending", "amount": 300 },
+      { "id": 5, "date": "2025-02-10", "status": "success", "amount": 900 },
+      { "id": 6, "date": "2025-02-15", "status": "failed", "amount": 100 },
+      { "id": 7, "date": "2025-02-20", "status": "success", "amount": 800 },
+      { "id": 8, "date": "2025-02-22", "status": "pending", "amount": 250 }
+    ]
+  }
