@@ -29,11 +29,11 @@
 
 # 🚀 Getting Started  
 1️⃣ Clone the Repository  
-  git clone https://github.com/yourusername/transaction-analytics.git  
-  cd transaction-analytics  
+  - git clone https://github.com/yourusername/transaction-analytics.git  
+  - cd transaction-analytics  
   
 2️⃣ Open the index.html File  
-  You can open the file directly in your browser or use Live Server in VS Code.  
+ - You can open the file directly in your browser or use Live Server in VS Code.  
 
 
 # 🔌 API Integration
