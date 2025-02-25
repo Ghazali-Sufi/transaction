@@ -1,5 +1,5 @@
 # 🚀 Transaction Analytics - Salaam 360
-      A simple transaction analytics dashboard that visualizes transaction data using Chart.js and allows users to filter transactions by date range.
+      A simple transaction analytics dashboard that visualizes transaction data using Chart.js and allows users to filter transactions by date range.  
       
 # 📌 Features
 ✅ Date Range Filtering – Select a start and end date to filter transactions  
@@ -54,14 +54,14 @@ The API returns transaction data in the following format:
   }  
 ]  
 
-Transactions are filtered based on Start Date and End Date.  
-The Line Chart shows successful & failed transactions.  
-The Bar Chart displays successful, failed, and pending transactions.  
+- Transactions are filtered based on Start Date and End Date.  
+- The Line Chart shows successful & failed transactions.  
+- The Bar Chart displays successful, failed, and pending transactions.  
 
 # UI Design  
-  The date filter section has a modern gradient background.  
-  Hover effects and animations for better UX.  
-  Mobile-friendly using CSS Grid and Flexbox.  
+  - The date filter section has a modern gradient background.  
+  - Hover effects and animations for better UX.  
+  - Mobile-friendly using CSS Grid and Flexbox.  
 
 # 🏗️ Future Improvements  
 🔹 Add transaction categories (e.g., shopping, bills, food)  
